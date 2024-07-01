@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+F:\Игорь\C++\Project7\FileName.cpp(75,1): warning C4715: delenie: значение возвращается не при всех путях выполнения
+  Project7.vcxproj -> F:\Игорь\C++\Project7\x64\Debug\Project7.exe
